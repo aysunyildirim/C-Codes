@@ -1,0 +1,14 @@
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\bin\Debug\net8.0\For-DONGUSU.exe
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\bin\Debug\net8.0\For-DONGUSU.deps.json
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\bin\Debug\net8.0\For-DONGUSU.runtimeconfig.json
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\bin\Debug\net8.0\For-DONGUSU.dll
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\bin\Debug\net8.0\For-DONGUSU.pdb
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\For-DONGUSU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\For-DONGUSU.AssemblyInfoInputs.cache
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\For-DONGUSU.AssemblyInfo.cs
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\For-DONGUSU.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\For-DONGUSU.dll
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\refint\For-DONGUSU.dll
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\For-DONGUSU.pdb
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\For-DONGUSU.genruntimeconfig.cache
+C:\Users\aysun.yildirim\source\repos\For-DONGUSU\For-DONGUSU\obj\Debug\net8.0\ref\For-DONGUSU.dll

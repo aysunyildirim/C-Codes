@@ -1,0 +1,7 @@
+C:\Users\aysun.yildirim\source\repos\ArttirmaAzaltma\ArttirmaAzaltma\bin\Debug\ArttirmaAzaltma.exe.config
+C:\Users\aysun.yildirim\source\repos\ArttirmaAzaltma\ArttirmaAzaltma\bin\Debug\ArttirmaAzaltma.exe
+C:\Users\aysun.yildirim\source\repos\ArttirmaAzaltma\ArttirmaAzaltma\bin\Debug\ArttirmaAzaltma.pdb
+C:\Users\aysun.yildirim\source\repos\ArttirmaAzaltma\ArttirmaAzaltma\obj\Debug\ArttirmaAzaltma.csproj.AssemblyReference.cache
+C:\Users\aysun.yildirim\source\repos\ArttirmaAzaltma\ArttirmaAzaltma\obj\Debug\ArttirmaAzaltma.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\ArttirmaAzaltma\ArttirmaAzaltma\obj\Debug\ArttirmaAzaltma.exe
+C:\Users\aysun.yildirim\source\repos\ArttirmaAzaltma\ArttirmaAzaltma\obj\Debug\ArttirmaAzaltma.pdb

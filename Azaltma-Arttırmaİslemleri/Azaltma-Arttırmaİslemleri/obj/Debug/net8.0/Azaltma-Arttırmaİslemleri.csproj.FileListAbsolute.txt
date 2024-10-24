@@ -1,0 +1,14 @@
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\bin\Debug\net8.0\Azaltma-Arttırmaİslemleri.exe
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\bin\Debug\net8.0\Azaltma-Arttırmaİslemleri.deps.json
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\bin\Debug\net8.0\Azaltma-Arttırmaİslemleri.runtimeconfig.json
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\bin\Debug\net8.0\Azaltma-Arttırmaİslemleri.dll
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\bin\Debug\net8.0\Azaltma-Arttırmaİslemleri.pdb
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\Azaltma-Arttırmaİslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\Azaltma-Arttırmaİslemleri.AssemblyInfoInputs.cache
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\Azaltma-Arttırmaİslemleri.AssemblyInfo.cs
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\Azaltma-Arttırmaİslemleri.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\Azaltma-Arttırmaİslemleri.dll
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\refint\Azaltma-Arttırmaİslemleri.dll
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\Azaltma-Arttırmaİslemleri.pdb
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\Azaltma-Arttırmaİslemleri.genruntimeconfig.cache
+C:\Users\aysun.yildirim\source\repos\Azaltma-Arttırmaİslemleri\Azaltma-Arttırmaİslemleri\obj\Debug\net8.0\ref\Azaltma-Arttırmaİslemleri.dll

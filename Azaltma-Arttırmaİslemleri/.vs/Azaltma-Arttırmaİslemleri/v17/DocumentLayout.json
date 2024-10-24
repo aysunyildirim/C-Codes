@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aysun.yildirim\\source\\repos\\Azaltma-Artt\u0131rma\u0130slemleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6644EF48-1E0C-4397-8A3E-0781BAC4C5CA}|Azaltma-Artt\u0131rma\u0130slemleri\\Azaltma-Artt\u0131rma\u0130slemleri.csproj|c:\\users\\aysun.yildirim\\source\\repos\\azaltma-artt\u0131rma\u0130slemleri\\azaltma-artt\u0131rma\u0130slemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6644EF48-1E0C-4397-8A3E-0781BAC4C5CA}|Azaltma-Artt\u0131rma\u0130slemleri\\Azaltma-Artt\u0131rma\u0130slemleri.csproj|solutionrelative:azaltma-artt\u0131rma\u0130slemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aysun.yildirim\\source\\repos\\Azaltma-Artt\u0131rma\u0130slemleri\\Azaltma-Artt\u0131rma\u0130slemleri\\Program.cs",
+              "RelativeDocumentMoniker": "Azaltma-Artt\u0131rma\u0130slemleri\\Program.cs",
+              "ToolTip": "C:\\Users\\aysun.yildirim\\source\\repos\\Azaltma-Artt\u0131rma\u0130slemleri\\Azaltma-Artt\u0131rma\u0130slemleri\\Program.cs*",
+              "RelativeToolTip": "Azaltma-Artt\u0131rma\u0130slemleri\\Program.cs*",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:29:45.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\aysun.yildirim\source\repos\OrtalamayaGoreNot\OrtalamayaGoreNot\obj\Debug\OrtalamayaGoreNot.csproj.AssemblyReference.cache
+C:\Users\aysun.yildirim\source\repos\OrtalamayaGoreNot\OrtalamayaGoreNot\obj\Debug\OrtalamayaGoreNot.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\OrtalamayaGoreNot\OrtalamayaGoreNot\bin\Debug\OrtalamayaGoreNot.exe.config
+C:\Users\aysun.yildirim\source\repos\OrtalamayaGoreNot\OrtalamayaGoreNot\bin\Debug\OrtalamayaGoreNot.exe
+C:\Users\aysun.yildirim\source\repos\OrtalamayaGoreNot\OrtalamayaGoreNot\bin\Debug\OrtalamayaGoreNot.pdb
+C:\Users\aysun.yildirim\source\repos\OrtalamayaGoreNot\OrtalamayaGoreNot\obj\Debug\OrtalamayaGoreNot.exe
+C:\Users\aysun.yildirim\source\repos\OrtalamayaGoreNot\OrtalamayaGoreNot\obj\Debug\OrtalamayaGoreNot.pdb

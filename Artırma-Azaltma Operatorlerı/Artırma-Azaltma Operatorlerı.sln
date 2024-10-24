@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artırma-Azaltma Operatorlerı", "Artırma-Azaltma Operatorlerı\Artırma-Azaltma Operatorlerı.csproj", "{B973C4BD-382F-4900-B61B-B8D1A75C502B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B973C4BD-382F-4900-B61B-B8D1A75C502B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B973C4BD-382F-4900-B61B-B8D1A75C502B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B973C4BD-382F-4900-B61B-B8D1A75C502B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B973C4BD-382F-4900-B61B-B8D1A75C502B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88796D85-4161-45B2-9A7D-873EE3A361A6}
+	EndGlobalSection
+EndGlobal

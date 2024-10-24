@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurDonusumleri", "TurDonusumleri\TurDonusumleri.csproj", "{AE704438-843E-42CF-BA74-C59AB8E5630E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE704438-843E-42CF-BA74-C59AB8E5630E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE704438-843E-42CF-BA74-C59AB8E5630E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE704438-843E-42CF-BA74-C59AB8E5630E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE704438-843E-42CF-BA74-C59AB8E5630E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254A2FA1-CCDC-40FC-AEB7-A7DF73F69DBB}
+	EndGlobalSection
+EndGlobal

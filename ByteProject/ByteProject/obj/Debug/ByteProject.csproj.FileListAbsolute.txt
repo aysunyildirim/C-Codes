@@ -1,0 +1,7 @@
+C:\Users\aysun.yildirim\source\repos\ByteProject\ByteProject\bin\Debug\ByteProject.exe.config
+C:\Users\aysun.yildirim\source\repos\ByteProject\ByteProject\bin\Debug\ByteProject.exe
+C:\Users\aysun.yildirim\source\repos\ByteProject\ByteProject\bin\Debug\ByteProject.pdb
+C:\Users\aysun.yildirim\source\repos\ByteProject\ByteProject\obj\Debug\ByteProject.csproj.AssemblyReference.cache
+C:\Users\aysun.yildirim\source\repos\ByteProject\ByteProject\obj\Debug\ByteProject.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\ByteProject\ByteProject\obj\Debug\ByteProject.exe
+C:\Users\aysun.yildirim\source\repos\ByteProject\ByteProject\obj\Debug\ByteProject.pdb

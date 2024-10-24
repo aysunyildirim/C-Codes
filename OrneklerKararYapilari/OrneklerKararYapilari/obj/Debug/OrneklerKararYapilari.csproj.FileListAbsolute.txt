@@ -1,0 +1,7 @@
+C:\Users\aysun.yildirim\source\repos\OrneklerKararYapilari\OrneklerKararYapilari\obj\Debug\OrneklerKararYapilari.csproj.AssemblyReference.cache
+C:\Users\aysun.yildirim\source\repos\OrneklerKararYapilari\OrneklerKararYapilari\obj\Debug\OrneklerKararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\OrneklerKararYapilari\OrneklerKararYapilari\bin\Debug\OrneklerKararYapilari.exe.config
+C:\Users\aysun.yildirim\source\repos\OrneklerKararYapilari\OrneklerKararYapilari\bin\Debug\OrneklerKararYapilari.exe
+C:\Users\aysun.yildirim\source\repos\OrneklerKararYapilari\OrneklerKararYapilari\bin\Debug\OrneklerKararYapilari.pdb
+C:\Users\aysun.yildirim\source\repos\OrneklerKararYapilari\OrneklerKararYapilari\obj\Debug\OrneklerKararYapilari.exe
+C:\Users\aysun.yildirim\source\repos\OrneklerKararYapilari\OrneklerKararYapilari\obj\Debug\OrneklerKararYapilari.pdb

@@ -1,0 +1,7 @@
+C:\Users\aysun.yildirim\source\repos\ToplamaCikarma\ToplamaCikarma\obj\Debug\ToplamaCikarma.csproj.AssemblyReference.cache
+C:\Users\aysun.yildirim\source\repos\ToplamaCikarma\ToplamaCikarma\obj\Debug\ToplamaCikarma.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\ToplamaCikarma\ToplamaCikarma\bin\Debug\ToplamaCikarma.exe.config
+C:\Users\aysun.yildirim\source\repos\ToplamaCikarma\ToplamaCikarma\bin\Debug\ToplamaCikarma.exe
+C:\Users\aysun.yildirim\source\repos\ToplamaCikarma\ToplamaCikarma\bin\Debug\ToplamaCikarma.pdb
+C:\Users\aysun.yildirim\source\repos\ToplamaCikarma\ToplamaCikarma\obj\Debug\ToplamaCikarma.exe
+C:\Users\aysun.yildirim\source\repos\ToplamaCikarma\ToplamaCikarma\obj\Debug\ToplamaCikarma.pdb

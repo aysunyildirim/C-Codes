@@ -1,0 +1,7 @@
+C:\Users\aysun.yildirim\source\repos\KararYapilari-İfElse\KararYapilari-İfElse\obj\Debug\KararYapilari-İfElse.csproj.AssemblyReference.cache
+C:\Users\aysun.yildirim\source\repos\KararYapilari-İfElse\KararYapilari-İfElse\obj\Debug\KararYapilari-İfElse.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\KararYapilari-İfElse\KararYapilari-İfElse\bin\Debug\KararYapilari-İfElse.exe.config
+C:\Users\aysun.yildirim\source\repos\KararYapilari-İfElse\KararYapilari-İfElse\bin\Debug\KararYapilari-İfElse.exe
+C:\Users\aysun.yildirim\source\repos\KararYapilari-İfElse\KararYapilari-İfElse\bin\Debug\KararYapilari-İfElse.pdb
+C:\Users\aysun.yildirim\source\repos\KararYapilari-İfElse\KararYapilari-İfElse\obj\Debug\KararYapilari-İfElse.exe
+C:\Users\aysun.yildirim\source\repos\KararYapilari-İfElse\KararYapilari-İfElse\obj\Debug\KararYapilari-İfElse.pdb

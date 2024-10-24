@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aysun.yildirim\\source\\repos\\Art\u0131rma-Azaltma Operatorler\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B973C4BD-382F-4900-B61B-B8D1A75C502B}|Art\u0131rma-Azaltma Operatorler\u0131\\Art\u0131rma-Azaltma Operatorler\u0131.csproj|c:\\users\\aysun.yildirim\\source\\repos\\art\u0131rma-azaltma operatorler\u0131\\art\u0131rma-azaltma operatorler\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B973C4BD-382F-4900-B61B-B8D1A75C502B}|Art\u0131rma-Azaltma Operatorler\u0131\\Art\u0131rma-Azaltma Operatorler\u0131.csproj|solutionrelative:art\u0131rma-azaltma operatorler\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aysun.yildirim\\source\\repos\\Art\u0131rma-Azaltma Operatorler\u0131\\Art\u0131rma-Azaltma Operatorler\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "Art\u0131rma-Azaltma Operatorler\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\aysun.yildirim\\source\\repos\\Art\u0131rma-Azaltma Operatorler\u0131\\Art\u0131rma-Azaltma Operatorler\u0131\\Program.cs",
+              "RelativeToolTip": "Art\u0131rma-Azaltma Operatorler\u0131\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:27:54.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

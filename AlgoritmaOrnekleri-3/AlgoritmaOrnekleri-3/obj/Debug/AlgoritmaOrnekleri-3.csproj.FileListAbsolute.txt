@@ -1,0 +1,7 @@
+C:\Users\aysun.yildirim\source\repos\AlgoritmaOrnekleri-3\AlgoritmaOrnekleri-3\obj\Debug\AlgoritmaOrnekleri-3.csproj.AssemblyReference.cache
+C:\Users\aysun.yildirim\source\repos\AlgoritmaOrnekleri-3\AlgoritmaOrnekleri-3\obj\Debug\AlgoritmaOrnekleri-3.csproj.CoreCompileInputs.cache
+C:\Users\aysun.yildirim\source\repos\AlgoritmaOrnekleri-3\AlgoritmaOrnekleri-3\bin\Debug\AlgoritmaOrnekleri-3.exe.config
+C:\Users\aysun.yildirim\source\repos\AlgoritmaOrnekleri-3\AlgoritmaOrnekleri-3\bin\Debug\AlgoritmaOrnekleri-3.exe
+C:\Users\aysun.yildirim\source\repos\AlgoritmaOrnekleri-3\AlgoritmaOrnekleri-3\bin\Debug\AlgoritmaOrnekleri-3.pdb
+C:\Users\aysun.yildirim\source\repos\AlgoritmaOrnekleri-3\AlgoritmaOrnekleri-3\obj\Debug\AlgoritmaOrnekleri-3.exe
+C:\Users\aysun.yildirim\source\repos\AlgoritmaOrnekleri-3\AlgoritmaOrnekleri-3\obj\Debug\AlgoritmaOrnekleri-3.pdb
